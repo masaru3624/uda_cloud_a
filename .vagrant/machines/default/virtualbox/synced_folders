@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/home/miyagawa/udacity/Cloud/uda_cloud_a","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
